@@ -4,5 +4,5 @@
 - yarn
 - yarn start
 # for CI/CD
-# for manual deploy#
-#link to codestyle guide
+# for manual deploy
+# link to codestyle guide
